@@ -1,0 +1,8 @@
+body{
+  background-color: blue;
+}
+
+#wrapper{
+  display: inline-flex;
+  flex-wrap: wrap;
+}

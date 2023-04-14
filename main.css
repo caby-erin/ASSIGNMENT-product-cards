@@ -6,3 +6,58 @@ body{
   display: inline-flex;
   flex-wrap: wrap;
 }
+
+h2{
+  border: 1px solid lightblue;
+  text-align: center;
+  font-family:'Orbitron', sans-serif;
+}
+
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 100px;
+  object-fit: cover;
+  
+}
+
+.card-description{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.pricing{
+  font-weight: bold;
+}
+
+.specific{
+  font-weight: bold;
+}
+
+.valid{
+  display: inline-block;
+  background-color: dark grey;
+  color: yellow;
+  background-color: darkgrey;
+  width: 100%;
+}
+
+p{
+  font-family: 'Orbitron', sans-serif;
+}
+h5{
+  font-family: 'Orbitron', sans-serif;
+}
+h3{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.col{
+  -webkit-border-radius: 0px;
+border-radius: 0px;
+background: #D1D8EC;
+-webkit-box-shadow: 11px 11px 16px #54565e, -11px -11px 16px #ffffff;
+box-shadow: 11px 11px 16px #54565e, -11px -11px 16px #ffffff;
+}
